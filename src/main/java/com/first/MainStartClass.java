@@ -13,6 +13,6 @@ public class MainStartClass {
 		
 		@GetMapping("/msg")
 		public String msg() {
-			return "hii123";
+			return "hii1233";
 		}
 }
